@@ -11,8 +11,6 @@ cal_ui <- function(request) {
       theme = shinytheme("sandstone"),
       useShinyjs(),
       titlePanel("InfectResonator Calibration"),
-      tags$style(type='text/css', "#stop { float:right; }"),
-      actionButton("stop", "Quit App"),
       tabsetPanel(id = "tabs",
                   ## Start of Tab Data
                   tabPanel("Features Data", value = "tab3",
