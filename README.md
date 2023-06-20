@@ -1,5 +1,5 @@
 # InfectRes
-This repository contains the prototype applications for kinetics and signal feature extraction from measurement done with WGM-System.
+This repository contains the prototype applications for kinetics and signal feature extraction from WGM-System measurements.
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
